@@ -43,4 +43,4 @@ There are three components in this project:
 > the decimal values stored within the registers, except for the flag register which will output the
 > binary value of the register.
 
-There is more detail about each program and the design of the instruction set and processor in their sections in this repository.
+There is more detail about each program and the design of the instruction set and processor in the wiki.
